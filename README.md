@@ -5,15 +5,13 @@ A demo for async.
 
 http://blog.fens.me/nodejs-async/
 
-INSTALL
-===========================
+## INSTALL
 
 > git clone https://github.com/caolan/async.git nodejs-async
 
 > cd  nodejs-async && npm install
 
-Change Log
-===================================
+## Change Log
 
 参考async@0.2.9版本的规范
 
